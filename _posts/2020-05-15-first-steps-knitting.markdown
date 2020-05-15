@@ -11,5 +11,5 @@ My work focuses on [machine knitting](https://en.wikipedia.org/wiki/Knitting_mac
 
 Although machine knitting has a great maker community, [hacking and producing open knitting software and hardware](https://ayab-knitting.com/), and creating [new and advanced digital knitting machines](https://www.kniterate.com/), for a non-textile expert like myself, getting into machine knitting is hard work. I’ve hand knit with needles on and off during my life, but I’ve never learnt advanced techniques. The knitting machine I have access to was chosen because it is **electronic**, which means it can be connected to a knitting software which syncs with the machine and automatically adjusts the needles according to a digital design. 
 
-![](/assets/designaknit.png)
+![](/softwear/assets/designaknit.png)
 The software that comes with our machine is called [DesignaKnit 9](https://www.softbyte.co.uk/designaknit9.htm), and is often abbreviated to DAK.
