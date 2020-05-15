@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 // fonts
-@import url('https://fonts.googleapis.com/css2?family=Palanquin:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@400;700&display=swap");
 
-body{
-  font-family: 'Palanquin', sans-serif;
+body {
+  font-family: "Palanquin", sans-serif;
   text-align: justify;
 }
 
@@ -19,21 +19,26 @@ h4,
 h5,
 h6 {
   color: #4400ff;
-  font-family: 'Palanquin', sans-serif;
+  font-family: "Palanquin", sans-serif;
   // border: 1px dashed #4400ff;
 }
 
-.site-title, .site-title:visited{
+.site-title,
+.site-title:visited {
   color: #4400ff;
-  font-family: 'Palanquin', sans-serif;
+  font-family: "Palanquin", sans-serif;
 }
-.site-nav .page-link{
+.site-nav .page-link {
   color: #4400ff;
-  font-family: 'Palanquin', sans-serif;
+  font-family: "Palanquin", sans-serif;
 }
 
-.site-header, .site-footer {
+.site-header,
+.site-footer {
   border: none;
+}
+.footer-heading {
+  display: none;
 }
 
 /** Links */
