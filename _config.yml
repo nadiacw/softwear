@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: softwear
+title: softwear 🧶 🕸 👩‍💻
 email: nadiacw@kth.se
 description: >- # this means to ignore newlines until "baseurl:"
   a project/blog on software, knitting and feminisms 
@@ -31,6 +31,8 @@ github_username:  nadiacw
 theme: minima
 plugins:
   - jekyll-feed
+
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
