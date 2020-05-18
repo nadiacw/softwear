@@ -3,10 +3,14 @@ layout: post
 title:  "stitching experiments"
 date:   2020-05-15 14:35 +0200
 categories: knitting
-# excerpt_separator: <!--more-->
+excerpt_separator: <!--more-->
 ---
 
 ![](/softwear/assets/images/knitting-tests.jpg)
+
+A few quick reflections on different knitting techniques available with the machine (and some failures).
+
+<!--more-->
 
 
 ## knitting two colors with medium yarn
