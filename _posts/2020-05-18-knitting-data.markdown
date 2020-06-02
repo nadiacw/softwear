@@ -10,11 +10,12 @@ _“knitting is a living tradition—it’s physical knowledge of a culture. Kno
 
 Last week I opened a thread on twitter asking people to share their best software + knitting references. I’ve collected all the recommendations and my own references in an [Are.na](https://www.are.na/) board: [https://www.are.na/nadia-cw/software-knitting-feminisms](https://www.are.na/nadia-cw/software-knitting-feminisms)
 
-<!--more-->
 
 <!-- ![](/softwear/assets/images/twitter.png) -->
 
 ![](/softwear/assets/images/arena.png)
+
+<!--more-->
 
 One of the first things that some of these projects do, and that seems like a pretty obvious relationship between knitting and software, is to knit **binary data** with two-color knitting techniques (fair-isle or double jacquard for reversible ones). Each stitch can be treated like a pixel, and the two colors represent a zero or a one. Or two types of stitches can be used, or the presence or absence of holes in the knitted piece, or any other combination of two knitting variables.
 

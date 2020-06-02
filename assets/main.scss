@@ -23,9 +23,16 @@ h6 {
   // border: 1px dashed #4400ff;
 }
 
+h1,
+h2,
+h3 {
+  font-weight: bold;
+}
+
 .site-title,
 .site-title:visited {
   color: #4400ff;
+  font-weight: bold;
   font-family: "Palanquin", sans-serif;
 }
 .site-nav .page-link {
@@ -62,4 +69,12 @@ a:hover {
 
 .social-media-list a:hover .username {
   text-decoration: underline;
+}
+
+// lists
+
+.post-list > li {
+  margin-bottom: 50px;
+  // padding-bottom: 20px;
+  // border-bottom: 4px dotted aquamarine;
 }
