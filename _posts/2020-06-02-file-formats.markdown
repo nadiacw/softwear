@@ -2,7 +2,6 @@
 layout: post
 title:  "file formats for the knitting machine"
 date:   2020-06-02 9:31 +0200
-categories: knitting
 excerpt_separator: <!--more-->
 ---
 
@@ -42,7 +41,11 @@ This file type is readable by DAK and also seems to be more common; it’s relat
 ## .dat files
 This file type is used for the punchcard addition which works with our machine (which we haven’t purchased). It usually removes color information when saving a pattern, and opens it up again with a default palette. When opening it up with a text editor, the results are pretty much the same. However, I tried replacing some HEX code in the middle of the file with some random HEX code, and the file didn’t corrupt, in fact, the pattern just glitched a bit.
 
-(image coming soon)
+![](/softwear/assets/images/dak2.png)
+
+![](/softwear/assets/images/dak3.png)
+
+It might be interesting to knit a glitched pattern, if reduced to 2 colors.
 
 ## end notes
 Parting from an existing file supported by DAK and changing a certain number of bytes would be a feasible way to edit/glitch the pattern it contains. Creating a file from scratch won’t be possible at the moment, since these files are proprietary. For now, the best way for me to use the machine is to generate images of my own and then manually import them into DAK, knowing the grid size of the image corresponds to the stitches and rows in the knitted piece, like I did with the QR code in [this earlier post](https://nadiacw.com/softwear/knitting/2020/05/18/knitting-data.html).

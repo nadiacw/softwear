@@ -2,7 +2,6 @@
 layout: post
 title:  "stitching experiments"
 date:   2020-05-15 14:35 +0200
-categories: knitting
 excerpt_separator: <!--more-->
 ---
 

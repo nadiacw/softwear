@@ -2,7 +2,6 @@
 layout: post
 title:  "first steps with the knitting machine"
 date:   2020-05-15 10:25:48 +0200
-categories: knitting
 excerpt_separator: <!--more-->
 ---
 

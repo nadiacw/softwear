@@ -2,7 +2,6 @@
 layout: post
 title:  "knitting data"
 date:   2020-05-18 16:34 +0200
-categories: knitting
 excerpt_separator: <!--more-->
 ---
 
