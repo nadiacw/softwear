@@ -28,7 +28,8 @@ The Jacquard loom and its punchcards (left) and the punchcards used in the Analy
 The actual birth of computation, inspired by weaving and knitting, commonly regarded as “women’s work”, contrasts with the entirely masculine history that succeeds it. From the development of the first computers, which were only accessible to scientists and high ranking military (vastly white men), to the state of computer science today, computers have been associated with “men’s work”. Thus, **there is a truly feminist legacy to doing work on knitting and software**.
 
 
-... ... ... ... ... ... ... ... ... ... ... ...
+<!-- ... ... ... ... ... ... ... ... ... ... ... ... -->
+- - - -
 
 
 Back to experimenting with knitting data, as a first test, I made a small [p5.js](p5js.org) sketch that converts a text into binary and then creates a grid based image with two colors representing every zero (red) or one (dark red). I then used DAK to create a knitting pattern from the image and I knit the pattern with the machine (using different colors!).
@@ -49,7 +50,8 @@ Another straightforward way to represent data via knitting is to encrypt it usin
 ![](/softwear/assets/images/qr-knits.jpg)
 One double jacquard attempt with thin yarn and two fair isle knits.
 
-... ... ... ... ... ... ... ... ... ... ... ...
+<!-- ... ... ... ... ... ... ... ... ... ... ... ... -->
+- - - -
 
 Concealing information within already existing and common media has long been used as a way to share secret messages. I was directed to the concept of [steganography](https://en.wikipedia.org/wiki/Steganography) by one of the professors in my lab, which is precisely “the practice of concealing a file, message, image, or video within another file, message, image, or video”. Taken to knitting, this can be done via any of the techniques mentioned above, and might have actually been a successful way to pass messages between allies in the second world war. A seemingly unbothered _little old lady_ might sit near her window and slip a stitch every time an enemy train passed, later delivering a knitted scarf to her fellow soldiers.
 

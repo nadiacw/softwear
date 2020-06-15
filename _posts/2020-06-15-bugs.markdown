@@ -1,0 +1,72 @@
+---
+layout: post
+title:  "on bugs"
+date:   2020-06-15 14:00 +0200
+categories: knitting
+excerpt_separator: <!--more-->
+---
+
+A bug, in computer science, is “an error, flaw or  fault in a  computer program or system that causes it to produce an incorrect or unexpected result, or to behave in unintended ways.” [Software bug - Wikipedia](https://en.wikipedia.org/wiki/Software_bug). 
+
+![](/softwear/assets/images/bug1.jpg)
+
+<!--more-->
+
+Using the knitting machine involves taking into account many different parameters and settings - knobs, levers, switches - along with the physical conditions and mood of the yarn, one’s hands and body, and many other invisible frictions and tensions. I have many encounters with 'knitting bugs'.
+
+A bug is not an absolute notion, but rather a relative concept that occurs when two different visions of a software application do not match: the actual behavior and the expected one. This means that a single instruction or a piece of code cannot be classified as a bug, per se. It’s only when its behavior is compared to the expected behavior that it can become a bug.
+
+<!-- ![](/softwear/assets/images/H96566k.jpg)
+Software bugs are called bugs because insects would literally get caught in the electromechanical computers (1940s) [Software bug - Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+
+Possibly the most famous bug is the  [Year 2000 problem](https://en.wikipedia.org/wiki/Year_2000_problem) , also known as the Y2K bug, in which it was feared that worldwide economic collapse would happen at the start of the year 2000 as a result of computers thinking it was 1900. (In the end, no major problems occurred.) -->
+
+Types of software bugs
+* off-by-one error
+* null pointer exception
+* logical bug
+* race condition
+* unchecked input
+* division by zero
+
+Effects bugs might cause
+* overflow
+* memory leak
+* crash
+* wrong output
+* glitch
+* latency
+* infinite loops
+
+Bugs have very interesting aesthetic values and connotations: they’re unexpected, unusual, curious, out of place, messy, they’re commonly seen as negative, faults and defects, misbehaving, unruly outcomes that can only be defined that way when compared to a canonical, standard ‘desired’ outcome.
+
+![](/softwear/assets/images/bug2.jpg)
+
+Knitting is entanglement, knots, friction, tension, fraying, stubbornness; it’s slippery, taught, loopy, gnarly, unravelling, ...
+
+
+![](/softwear/assets/images/bug4.jpg)
+
+Knitting, being a series of knots and loops along the same thread, can easily be **unravelled** or **undone**, which allows for remaking, reusing and ravelling up the yarn again into something new.
+
+Knitting can hide secret messages and meanings, which can be easily _destroyed_ by unravelling the whole piece. See the post on [knitting data](https://nadiacw.com/softwear/2020/05/18/knitting-data.html).
+
+![](/softwear/assets/images/bug5.jpg)
+
+A bowl of bugs is not waste - these scraps can be used to begin new pieces, to seam two pieces together, to weave a new piece.
+
+![](/softwear/assets/images/weave.jpg)
+Weaving scrap yarn from the bowl of bugs.
+
+In software / computer science, bugs are undesired, discarded pieces of code, material that is deleted… might they be reused? What can software learn from knitting? Software bugs are sometimes preserved and documented, especially when using collaborative platforms like Github, via file formats that compare the buggy code and the correct code: [diff](https://en.wikipedia.org/wiki/Diff)
+
+**How can bugs help us make something anew?**
+
+**Unravel a bug and ravel it up again into something new.**
+
+
+
+- - - -
+
+
+_Some of the text in this post has been adapted from Wikipedia, and from notes and email exchanges by Benoit Baudry, Erik Natanael, Thomas Durieux and myself._
