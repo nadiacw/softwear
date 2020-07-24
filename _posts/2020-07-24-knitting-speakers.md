@@ -10,7 +10,7 @@ A few weeks ago I came across [Kobakant’s documentation on kitting a speaker](
 
 The volume that these speakers produce is very low, which is interesting because it enables a closeness, softness and ‘touch’ which is already a quality of many knitted fabrics. The example that betaKnit provides is a Sound Hoodie, a wearable incorporating knitted speakers close to the ears.
 
-To make the speaker, I used [the circuit from Kobakant](https://www.kobakant.at/DIY/?p=5935). In the first test I made, I knit copper thread into a small mesh, placed a small piece of paper underneath to act as a membrane, and a neodymium magnet under that. I used the Adafruit PAM8302A amplifier (brought from Electrokit)
+To make the speaker, I used [the circuit from Kobakant](https://www.kobakant.at/DIY/?p=5935). In the first test I made, I knit copper thread into a small mesh, placed a small piece of paper underneath to act as a membrane, and a neodymium magnet under that. I used the Adafruit PAM8302A amplifier (bought from Electrokit).
 
 ![](/softwear/assets/images/circuit.png)
 
@@ -26,10 +26,14 @@ The next step I took was to improve the sound quality of the speaker by testing 
 
 The sound quality and volume increases when manually pressing together the membrane and the magnet, which makes sense since those components in a speaker should be ‘airtight’. It would make sense to make a pocket or holding system for the magnet, similar to what others have tried.
 
+<iframe width="100%" height="460" src="https://www.youtube.com/embed/EX3pJx4TQlg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 When knitting a very tight knit, the knit itself acts as a membrane and a paper is no longer needed. This is my favorite test so far because the speaker is the knitting itself, and no other materials need to be added besides the magnet.
 
-<iframe src="https://drive.google.com/file/d/17Ohdm8fgpsGTPL1JE_ps374i3kbFLGdg/preview" width="100%" height="480"></iframe>
+Turn the volume up to hear the music, it's very low but it's there! 
 
-<iframe src="https://drive.google.com/file/d/1xELrPDv9sLcg67nGlcwvvtns2M3zGkD_/preview" width="100%" height="480"></iframe>
+<iframe width="100%" height="460" src="https://www.youtube.com/embed/OFaPjxkRmc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="460" src="https://www.youtube.com/embed/MNK8vnCl2k8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Next, I'll work on integrating several speakers at once into larger knitted pieces, and adding pockets for the magnets.
