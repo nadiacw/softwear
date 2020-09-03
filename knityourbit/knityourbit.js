@@ -11,9 +11,11 @@ checkbox.addEventListener('change', function () {
     if (this.checked) {
         // Checkbox is checked
         border = true;
+        document.getElementById("stitches").innerHTML = '10';
     } else {
         // Checkbox is not checked
         border = false;
+        document.getElementById("stitches").innerHTML = '8';
     }
     knitIt();
 });
@@ -22,7 +24,7 @@ checkbox.addEventListener('change', function () {
 function knitIt() {
     m = document.getElementById("message").value;
     // text to binary
-    b = text2Binary(m);
+    b = Util.toBinary(m);
     document.getElementById("binaryText").innerHTML = b.toString();
     // remove spaces
     b = b.replace(/\s/g, '');
@@ -101,19 +103,6 @@ function knitIt() {
 }
 
 
-
-function text2Binary(string) {
-    return string.split('').map(function (char) {
-        if (char.charCodeAt(0).toString(2).length == 6) {
-            return '00' + char.charCodeAt(0).toString(2);
-        }
-        if (char.charCodeAt(0).toString(2).length == 7) {
-            return '0' + char.charCodeAt(0).toString(2);
-        }
-    }).join(' ');
-}
-
-
 function knitRow() {
     let row = t.insertRow();
     let td = document.createElement("td");
@@ -148,4 +137,26 @@ function purlRow() {
         td.appendChild(text);
         row.appendChild(td);
     }
+}
+
+// https://gist.github.com/belohlavek/90771ccccb11100e76d1
+// Added a space between each byte for readability
+var Util = {
+	toBinary: function(input) {
+		var result = "";
+		for (var i = 0; i < input.length; i++) {
+			var bin = input[i].charCodeAt().toString(2);
+			result += Array(8 - bin.length + 1).join("0") + bin + ' ';
+		} 
+		return result;
+	},
+
+	toAscii: function(input) {
+		var result = "";
+		var arr = input.match(/.{1,8}/g);
+		for (var i = 0; i < arr.length; i++) {
+			result += String.fromCharCode(parseInt(arr[i], 2).toString(10));
+		}
+		return result;
+	}
 }
