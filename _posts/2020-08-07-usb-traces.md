@@ -5,12 +5,9 @@
   categories: knitting
   excerpt_separator: <!--more-->
 ---
-peer (verb)
-UK  /pɪər/ US  /pɪr/
-1: to look narrowly or curiously
-peering (noun)
-/pɪərɪŋ/
-the exchange of data directly between Internet service providers, rather than via the Internet.
+peer (verb) UK /pɪər/ US /pɪr/ 1: to look narrowly or curiously
+
+peering (noun) /pɪərɪŋ/ 1: the exchange of data directly between Internet service providers, rather than via the Internet.
 
 I know that the literal ‘black box’ that sits on the desk next to the knitting machine is in charge of transferring the data of knitting patterns from the computer to the knitting machine, which then moves its needles accordingly to create a two color pattern. But I had no understanding of how it actually does this. Does it send a message for each row with 0s and 1s depending on which position the needle should be in? Is it encrypted? Could I make my own program to control this box?
 
