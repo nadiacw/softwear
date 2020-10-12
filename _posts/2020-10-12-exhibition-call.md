@@ -6,7 +6,7 @@
   excerpt_separator: <!--more-->
 ---
 
-The end of October brings an end to softwear explorations (for the moment), and I've been preparing a small exhibition in the Library of my school, KTH Royal Institute of Technology. The exhibit will be up for a few weeks, and it will include some knitted pieces and a *collectively curated collection* of small artifacts and prints.
+The end of October brings an end to softwear explorations (for the moment), and I've been preparing a small exhibition in the Library at KTH Royal Institute of Technology. The exhibit will be up for a few weeks, and it will include some knitted pieces and a *collectively curated collection* of small artifacts and prints.
 
 . : . : . : . 
 
@@ -31,8 +31,6 @@ Objects might be:
 If you'd like to contribute, please [email me](mailto:ncampowoytuk@gmail.com) or reach out on social media. I can come pick up your items in Stockholm.
 
 Thank you! 🦕
-
-
 
 
 
