@@ -34,4 +34,13 @@ Place: KTH Library. [Sign up here.](https://www.kth.se/en/biblioteket/kalender/s
 
 ![](/softwear/assets/images/exhibition-pics.png)
 
+### Special thanks to:
+Marie Louise Juul Søndergaard, Andreas Almqvist, Nicolas Harrand, Orestis Floros.
 
+Erik, Thomas, Jonathan and Benoit from rethread.
+
+Mikko and Lenita from the KTH Library.
+
+The Middla lab - for the knitting machine!
+
+This project is part of [rethread](https://www.rethread.art), funded by CASTOR Software Research Center at KTH.
