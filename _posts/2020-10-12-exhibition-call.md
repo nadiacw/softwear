@@ -1,6 +1,6 @@
 ---
   layout: post
-  title: softwear exhibition - help needed!
+  title: a softwear collage
   date:   2020-10-12 10:00 +0200
   categories: knitting
   excerpt_separator: <!--more-->
