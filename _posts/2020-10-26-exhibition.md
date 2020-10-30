@@ -24,13 +24,13 @@ Time: Monday 2 November 2020 12.15 - 13.00
 
 Place: Online. [Link here.](https://www.kth.se/en/biblioteket/kalender/utforska-feministiska-sammanflatningar-av-programvara-och-stickning-1.1018979?date=2020-11-02&orgdate=2020-10-26&length=1&orglength=0)
 
-### Workshop
+### Workshop (cancelled due to new corona restrictions in Stockholm)
 
-“Learn how to knit binary code”
+~~“Learn how to knit binary code”~~
 
-Time: Thursday 5 November 2020
+~~Time: Thursday 5 November 2020~~
 
-Place: KTH Library. [Sign up here.](https://www.kth.se/en/biblioteket/kalender/softwearworkshop-lar-dig-sticka-binarkod-1.1021035?date=2020-11-05&orgdate=2020-10-26&length=1&orglength=0)
+~~Place: KTH Library. [Sign up here.](https://www.kth.se/en/biblioteket/kalender/softwearworkshop-lar-dig-sticka-binarkod-1.1021035?date=2020-11-05&orgdate=2020-10-26&length=1&orglength=0)~~
 
 ![](/softwear/assets/images/exhibition-pics.png)
 
